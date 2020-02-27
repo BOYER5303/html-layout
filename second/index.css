@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 20px;
+}
+.headerbox {
+    width: 100%;
+    border: solid; 
+    box-sizing: border-box;  
+    padding 10px;
+}
+.purplebox {
+height: 150px;
+width: 50px;
+color: purple;
+display: inline-block;
+background-color: purple;
+}
+
+.greenbox {
+    height: 200px;
+    width: 400px;
+    color: green;
+    display: inline-block;
+    background-color: green;
+    margin: 0px 50px;
+    }
+
+.bluecircle {
+    height: 200px;
+    width: 200px;
+    color: lightblue;
+    border: solid;
+    background-color: lightblue;
+    display: inline-block;
+    border-radius: 50%;
+}
